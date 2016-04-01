@@ -3,7 +3,17 @@
   <ModulePrefs title="hello world example" />
   <Content type="html">
   <![CDATA[
-    Hello World!
+    <div class="row">
+      <div class="col-sm-3" style="background-color:orange">
+        Orange
+      </div>
+      <div class="col-sm-3" style="background-color:cyan">
+        Cyan
+      </div>
+      <div class="col-sm-3" style="background-color:green">
+        Green
+      </div>
+    </div>
   ]]>
   </Content>
 </Module>
