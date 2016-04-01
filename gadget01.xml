@@ -3,16 +3,16 @@
   <ModulePrefs title="hello world example" />
   <Content type="html">
   <![CDATA[
-    <div class="row">
-      <div class="col-sm-3" style="background-color:orange">
-        Orange
-      </div>
-      <div class="col-sm-3" style="background-color:cyan">
-        Cyan
-      </div>
-      <div class="col-sm-3" style="background-color:green">
-        Green
-      </div>
+    <div>
+      <table>
+        <tbody>
+          <tr>
+            <td style="background-color:cyan">Cyan</td>
+            <td style="background-color:orange">Orange</td>
+            <td style="background-color:green">Green</td>
+          </tr>
+        </tbody>
+      </table>
     </div>
   ]]>
   </Content>
