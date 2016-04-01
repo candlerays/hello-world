@@ -11,6 +11,11 @@
             <td style="background-color:orange">Orange</td>
             <td style="background-color:green">Green</td>
           </tr>
+          <tr>
+            <td style="background-color:blue">Blue</td>
+            <td style="background-color:black">Black</td>
+            <td style="background-color:yellow">Yellow</td>
+          </tr>
         </tbody>
       </table>
     </div>
