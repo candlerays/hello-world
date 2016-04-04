@@ -25,7 +25,7 @@
   
     <div>
       <div class="row">
-        <div class="portal-box col-lg-3" style="background-color:#3498db">
+        <div class="portal-box col-lg-3" style="background-color:#3498db;cursor: pointer;" onclick="location.href='https://sites.google.com/a/pointwest.com.ph/hmc-domain-website/index';">
           <p style="color:white;text-align:center"><b>Domain</b></p>
         </div>
         <div class="portal-box col-lg-3" style="background-color:#f9690e">
