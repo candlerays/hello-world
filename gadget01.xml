@@ -4,40 +4,48 @@
   <Content type="html">
   <![CDATA[
   
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://bootflat.github.io/bootflat/css/bootflat.css">
+    <link rel="stylesheet" href="styles/portal.css">
+   
+    <!-- Bootstrap -->
+    <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="https://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+    <!-- Bootflat's JS files.-->
+    <script src="https://bootflat.github.io/bootflat/js/icheck.min.js"></script>
+    <script src="https://bootflat.github.io/bootflat/js/jquery.fs.selecter.min.js"></script>
+    <script src="https://bootflat.github.io/bootflat/js/jquery.fs.stepper.min.js"></script>        
+  
     <style>
     .domain{
       background-color:#2ecc71;
       -webkit-transform: scale(1.05);
-       -moz-transform: scale(1.05);
-       -ms-transform; scale(1.05);
-       -o-transform: scale(1.05);
-       transform: scale(1.05);
+      -moz-transform: scale(1.05);
+      -ms-transform; scale(1.05);
+      -o-transform: scale(1.05);
+      transform: scale(1.05);
        
-       -webkit-transition: all 0.2s;
-       -moz-transition: all 0.2s;
-       -ms-transition: all 0.2s;
-       -o-transition: all 0.2s;
-       transition: all 0.2s;
+      -webkit-transition: all 0.2s;
+      -moz-transition: all 0.2s;
+      -ms-transition: all 0.2s;
+      -o-transition: all 0.2s;
+      transition: all 0.2s;
     }
-
-    </style>
+    <style>
   
-    <div>
-      <table>
-        <tbody>
-          <tr>
-            <td class="domain"><a href="https://sites.google.com/a/pointwest.com.ph/hmc-domain-website/index" target="_top">HMC Domain</a></td>
-            <td style="background-color:orange">Orange</td>
-            <td style="background-color:green">Green</td>
-          </tr>
-          <tr>
-            <td style="background-color:blue">Blue</td>
-            <td style="background-color:black">Black</td>
-            <td style="background-color:yellow">Yellow</td>
-          </tr>
-        </tbody>
-      </table>
+    <div class="row">
+      <div class="domain col-lg-3">
+        Domain
+      </div>
+      <div class="col-lg-3" style="background-color:orange">
+        Wiki
+      </div>
+      <div class="col-lg-3" style="background-color:blue">
+        TimeTracker
+      </div>
     </div>
   ]]>
+  
   </Content>
 </Module>
