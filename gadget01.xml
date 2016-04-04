@@ -4,8 +4,6 @@
   <Content type="html">
   <![CDATA[
   
-        
-  
     <style>
     .domain{
       background-color:#2ecc71;
@@ -21,7 +19,7 @@
       -o-transition: all 0.2s;
       transition: all 0.2s;
     }
-    <style>
+    </style>
   
     <div>
       <table>
