@@ -19,7 +19,7 @@
     .portal-box{
       height:200px;
       margin:8px;
-      
+      opacity:0.4;
     }
     </style>
   
