@@ -25,13 +25,13 @@
   
     <div>
       <div class="row">
-        <div class="portal-box col-lg-3" style="background-color:#2ecc71">
+        <div class="portal-box col-lg-3" style="background-color:#3498db">
           <p style="color:white;text-align:center"><b>Domain</b></p>
         </div>
         <div class="portal-box col-lg-3" style="background-color:#f9690e">
           <p style="color:white;text-align:center"><b>Wiki</b></p>
         </div>
-        <div class="portal-box col-lg-3" style="background-color:#3498db">
+        <div class="portal-box col-lg-3" style="background-color:#9b59b6">
           <p style="color:white;text-align:center"><b>TimeTracker</b></p>
         </div>
       </div>
