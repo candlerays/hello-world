@@ -4,6 +4,18 @@
   <Content type="html">
   <![CDATA[
   
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://bootflat.github.io/bootflat/css/bootflat.css">
+    
+    <!-- Bootstrap -->
+    <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="https://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+    <!-- Bootflat's JS files.-->
+    <script src="https://bootflat.github.io/bootflat/js/icheck.min.js"></script>
+    <script src="https://bootflat.github.io/bootflat/js/jquery.fs.selecter.min.js"></script>
+    <script src="https://bootflat.github.io/bootflat/js/jquery.fs.stepper.min.js"></script>  
+    
     <style>
     .domain{
       background-color:#2ecc71;
@@ -22,17 +34,17 @@
     </style>
   
     <div>
-        <div class="row">
-      <div class="domain col-lg-3">
-        Domain
+      <div class="row">
+        <div class="domain col-lg-3">
+          Domain
+        </div>
+        <div class="col-lg-3" style="background-color:orange">
+          Wiki
+        </div>
+        <div class="col-lg-3" style="background-color:blue">
+          TimeTracker
+        </div>
       </div>
-      <div class="col-lg-3" style="background-color:orange">
-        Wiki
-      </div>
-      <div class="col-lg-3" style="background-color:blue">
-        TimeTracker
-      </div>
-    </div>
     </div>
   ]]>
   
