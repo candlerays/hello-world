@@ -16,20 +16,22 @@
     <script src="https://bootflat.github.io/bootflat/js/jquery.fs.stepper.min.js"></script>  
     
     <style>
-    .domain{
+    .portal-box{
       background-color:#2ecc71;
+      height:200px;
+      padding:2px;
     }
     </style>
   
     <div>
       <div class="row">
-        <div class="domain col-lg-3">
+        <div class="portal-box col-lg-3">
           Domain
         </div>
-        <div class="col-lg-3" style="background-color:orange">
+        <div class="portal-box col-lg-3" style="background-color:orange">
           Wiki
         </div>
-        <div class="col-lg-3" style="background-color:blue">
+        <div class="portal-box col-lg-3" style="background-color:blue">
           TimeTracker
         </div>
       </div>
