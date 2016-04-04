@@ -3,11 +3,18 @@
   <ModulePrefs title="hello world example" />
   <Content type="html">
   <![CDATA[
+  
+    <style>
+    .domain{
+      background-color:#2ecc71;
+    }
+    </style>
+  
     <div>
       <table>
         <tbody>
           <tr>
-            <td style="background-color:#2ecc71"><a href="https://sites.google.com/a/pointwest.com.ph/hmc-domain-website/index" target="_top">HMC Domain</a></td>
+            <td class="domain"><a href="https://sites.google.com/a/pointwest.com.ph/hmc-domain-website/index" target="_top">HMC Domain</a></td>
             <td style="background-color:orange">Orange</td>
             <td style="background-color:green">Green</td>
           </tr>
